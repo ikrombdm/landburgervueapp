@@ -1,0 +1,303 @@
+[
+    {
+        "id": 1,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/lavash.png?raw=true",
+        "category": "burgerlar",
+        "name": "Lavash",
+        "pitsaPrice": "19,000 / 22,000",
+        "pitsaPrice2": "21,000 / 24,000"
+    },
+    {
+        "id": 2,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/lavash.png?raw=true",
+        "category": "burgerlar",
+        "name": "Big lavash",
+        "pitsaPrice": "25,000",
+        "pitsaPrice2": "27,000"
+    },
+    {
+        "id": 3,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/tandirLavash.png?raw=true",
+        "category": "burgerlar",
+        "name": "Tandir lavash",
+        "pitsaPrice": "25,000"
+    },
+    {
+        "id": 4,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/twister.png?raw=true",
+        "category": "burgerlar",
+        "name": "Twister",
+        "pitsaPrice": "22,000",
+        "pitsaPrice2": "24,000"
+    },
+    {
+        "id": 5,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/Xaggi.png?raw=true",
+        "category": "burgerlar",
+        "name": "Xaggi",
+        "pitsaPrice": "21,000",
+        "pitsaPrice2": "25,000"
+    },
+    {
+        "id": 6,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/donarCabob.png?raw=true",
+        "category": "burgerlar",
+        "name": "Doner kebab",
+        "pitsaPrice": "18,000",
+        "pitsaPrice2": "22,000"
+    },
+    {
+        "id": 7,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/shourma.png?raw=true",
+        "category": "burgerlar",
+        "name": "Shourma",
+        "pitsaPrice": "23,000"
+    },
+    {
+        "id": 8,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/gamburger.png?raw=true",
+        "category": "burgerlar",
+        "name": "Gamburger",
+        "pitsaPrice": "18,000"
+    },
+    {
+        "id": 9,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/bigGam.png?raw=true",
+        "category": "burgerlar",
+        "name": "Big gamburger",
+        "pitsaPrice": "26,000"
+    },
+    {
+        "id": 10,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/Chizburger.png?raw=true",
+        "category": "burgerlar",
+        "name": "Chizburger",
+        "pitsaPrice": "20,000"
+    },
+    {
+        "id": 11,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/BigChiz.png?raw=true",
+        "category": "burgerlar",
+        "name": "Big chiz",
+        "pitsaPrice": "30,000"
+    },
+    {
+        "id": 12,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/ChickenBurger.png?raw=true",
+        "category": "burgerlar",
+        "name": "Chicken burger",
+        "pitsaPrice": "18,000"
+    },
+    {
+        "id": 13,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/ChickenChiz.png?raw=true",
+        "category": "burgerlar",
+        "name": "Chicken Chiz",
+        "pitsaPrice": "18,000"
+    },
+    {
+        "id": 14,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/HotDog.png?raw=true",
+        "category": "burgerlar",
+        "name": "Hot dog",
+        "otherOnePirce": "10,000",
+        "otherOnePirce2": "13,000"
+    },
+    {
+        "id": 15,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/CorolevHotDog.png?raw=true",
+        "category": "burgerlar",
+        "name": "Korol.. Hot dog",
+        "otherOnePirce": "18,000"
+    },
+    {
+        "id": 16,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/KFC.png?raw=true",
+        "category": "snacks",
+        "name": "KFC",
+        "otherOnePirce": "20,000"
+    },
+    {
+        "id": 17,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/FRI.png?raw=true",
+        "category": "snacks",
+        "name": "KFC",
+        "otherOnePirce": "20,000"
+    },
+    {
+        "id": 18,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/CartoDerevianskiy.png?raw=true",
+        "category": "snacks",
+        "name": "Kartoshka dere..",
+        "otherOnePirce": "12,000"
+    },
+    {
+        "id": 19,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/Krilishki.png?raw=true",
+        "category": "burgerlar",
+        "name": "Kilishki",
+        "otherOnePirce": "1kg-80,000"
+    },
+    {
+        "id": 20,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/Gril.png?raw=true",
+        "category": "burgerlar",
+        "name": "Gril",
+        "otherOnePirce": "40,000",
+        "otherOnePirce2": "45,000"
+    },
+    {
+        "id": 21,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/Capichino.png?raw=true",
+        "category": "ichimliklar",
+        "name": "Kopichino",
+        "otherOnePirce": "8,000"
+    },
+    {
+        "id": 22,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/lavash/Kofe.png?raw=true",
+        "category": "ichimliklar",
+        "name": "Kofe",
+        "otherOnePirce": "6,000"
+    },
+    {
+        "id": 23,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/donarpitsa.png?raw=true",
+        "category": "pizza",
+        "desciption": "Donar gushti va haqiqiy mozzarella pishlogi solingan surtilgan va tuyimli pitsa",
+        "name": "Donar pitsa",
+        "min": 60000,
+        "normal": 72000,
+        "max": 85000,
+        "quality": ""
+    },
+    {
+        "id": 24,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/pepperoni.png?raw=true",
+        "category": "pizza",
+        "desciption": "Qo'sh qalampir mozzarella pishloq va pomidor sous bilan",
+        "name": "Pepperoni",
+        "min": 45000,
+        "normal": 60000,
+        "max": 70000
+    },
+    {
+        "id": 26,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/mixPitsa.png?raw=true",
+        "category": "piza",
+        "desciption": "Mix pizza pizza 1 o'sha pizada 4 hil sevimli pitsalaringiz bir butun hammasini wa birdan tatib qurishni hush quruvchilar uchun nihoyda mos keladi. Qazi",
+        "name": "Mix pitsa",
+        "otherOnePirce": "Mix-80,000",
+        "otherOnePirce2": "Qai-100,000"
+    },
+    {
+        "id": 27,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/pepperoni.png?raw=true",
+        "category": "pizza",
+        "desciption": "Gushtili roll va tog'dek mozzarella pislogi fayllari, ananas va kori sousi bilan",
+        "name": "Chicken kori",
+        "min": 50000,
+        "normal": 63000,
+        "max": 75000
+    },
+    {
+        "id": 27,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/BrownHen.png?raw=true",
+        "category": "pizza",
+        "desciption": "Gushtili roll va tog'dek mozzarella pislogi fayllari, ananas va kori sousi bilan",
+        "name": "Sirni tovuq",
+        "min": 45000,
+        "normal": 60000,
+        "max": 70000
+    },
+    {
+        "id": 28,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/HenPench.png?raw=true",
+        "category": "pizza",
+        "desciption": "Yumshok saqlash fayllari, mozzarella Pishlogi va pomidor fermasi bilan sousi",
+        "name": "Panch",
+        "min": 45000,
+        "normal": 60000,
+        "max": 70000
+    },
+    {
+        "id": 29,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/Mexican.png?raw=true",
+        "category": "pizza",
+        "desciption": "Mol goshti, pepperoni kolbasalari, mayin mozzarella pislogi, jalapeno,  barbekyu sousi, bulgor kalampiri, piyoz va pomidorlar",
+        "name": "Meksikanskiy",
+        "min": 50000,
+        "normal": 63000,
+        "max": 75000
+    },
+    {
+        "id": 30,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/Margarita.png?raw=true",
+        "category": "pizza",
+        "desciption": "Pishlogi mozzarella, va pomidor oregano pomidor sousi bilan",
+        "name": "Margarita",
+        "min": 35000,
+        "normal": 55000,
+        "max": 65000
+    },
+    {
+        "id": 31,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/Barbeku.png?raw=true",
+        "category": "pizza",
+        "desciption": "Tovuq fayli, piyoz, chuziluvchan mozzarella pishlogi barbekyu va pomidor sousi bilan",
+        "name": "Tovuqli barbekyu",
+        "min": 45000,
+        "normal": 60000,
+        "max": 70000
+    },
+    {
+        "id": 32,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/Hen.png?raw=true",
+        "category": "pizza",
+        "desciption": "Tovuq fayllari, mozzarella pislogi, qozikorin va oregano pizza bilan sousi",
+        "name": "Tovuq bilan qo'ziqorinlar",
+        "min": 35000,
+        "normal": 55000,
+        "max": 65000
+    },
+    {
+        "id": 33,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/Gavayskaya.png?raw=true",
+        "category": "pizza",
+        "desciption": "Shirador ananasi, eritilgan mozzarella pislogi va mazali kurka goshti pomidor sousi Bilan",
+        "name": "Gavayskaya",
+        "min": 45000,
+        "normal": 60000,
+        "max": 70000
+    },
+    {
+        "id": 34,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/veterenskaya.png?raw=true",
+        "category": "pizza",
+        "desciption": "Pomidor, qarsildo'q bulg'or kalampiri, oregano, qozikorin, Kora zaytun,  mozzarella pishlogi va pioz pomidor sousi bilan",
+        "name": "Veterenskaya",
+        "min": 45000,
+        "normal": 60000,
+        "max": 70000
+    },
+    {
+        "id": 35,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/Assorti.png?raw=true",
+        "category": "pizza",
+        "desciption": "Filesi tovuq, mozzarella pislogi, karsildok bulgor kalampiri, qoʻzikorin, qoʻra zaytun, pepperoni va pioz pomidor sousi bilan",
+        "name": "Assorti Pitsa",
+        "min": 50000,
+        "normal": 63000,
+        "max": 75000
+    },
+    {
+        "id": 36,
+        "images": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pizza/Combo.png?raw=true",
+        "category": "pizza",
+        "desciption": "Chicken fillets, pepperoni, tovuq filesi va mozzarella pislogi bilan tomato sauce",
+        "name": "Kombo",
+        "min": 50000,
+        "normal": 63000,
+        "max": 75000
+    }
+]

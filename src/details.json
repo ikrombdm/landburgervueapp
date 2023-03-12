@@ -1,0 +1,8 @@
+[
+    {
+        "cow": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/cow.png?raw=true",
+        "piza": "https://github.com/ikrombek02/landburgervueapp/blob/main/src/assets/images/pitsa.png?raw=true",
+        "limon": "../src/assets/images/limon.png",
+        "cofe": "../src/assets/images/cofee.png"
+    }
+]
