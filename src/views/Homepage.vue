@@ -25,7 +25,7 @@
           @click="router.push(`/foods/${item.id}`)"
         >
         
-          <img :src="item.images" alt="log" class="rounded" />
+          <img loading="lazy" :src="item.images" alt="log" class="rounded" />
 
           <span v-if="item.quality" class="badge rounded-pill text-bg-warning">
             {{ item.quality }}
